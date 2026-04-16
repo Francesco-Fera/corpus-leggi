@@ -1,0 +1,26 @@
+---
+atto:
+  titolo: "Codice dell'amministrazione digitale"
+  tipo: DECRETO LEGISLATIVO
+  numero: "82"
+  data: 2005-03-07
+  anno: 2005
+  codice_redazionale: 005G0104
+  urn: urn:nir:stato:decreto.legislativo:2005-03-07;82
+articolo:
+  numero: "30"
+  urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art30
+  rubrica: "Responsabilita' dei prestatori di servizi fiduciari qualificati, dei gestori di posta elettronica certificata, dei gestori dell'identita' digitale e dei conservatori"
+vigente: true
+aggiornato_al: 2026-04-16
+fonte: normattiva.it
+licenza: CC-BY-4.0
+---
+
+# Art. 30 — Responsabilita' dei prestatori di servizi fiduciari qualificati, dei gestori di posta elettronica certificata, dei gestori dell'identita' digitale e dei conservatori
+
+1. ((I prestatori di servizi fiduciari qualificati e i gestori di posta elettronica certificata, iscritti nell'elenco di cui all'articolo 29, comma 6, nonche' i gestori dell'identita' digitale e i conservatori di documenti informatici)), che cagionano danno ad altri nello svolgimento della loro attivita', sono tenuti al risarcimento, se non provano di avere adottato tutte le misure idonee a evitare il danno.
+
+2. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
+
+3. PERIODO SOPPRESSO DAL D.LGS. 13 DICEMBRE 2017, N. 217. Il prestatore di servizi di firma digitale o di altra firma elettronica qualificata non e' responsabile dei danni derivanti dall'uso di un certificato qualificato che ecceda i limiti eventualmente posti dallo stesso ai sensi dell'articolo 28, comma 3, a condizione che limiti d'uso e di valore siano chiaramente riconoscibili secondo quanto previsto dall'articolo 28, comma 3-bis.

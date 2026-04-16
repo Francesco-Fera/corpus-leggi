@@ -1,0 +1,65 @@
+---
+atto:
+  titolo: "Codice dell'amministrazione digitale"
+  tipo: DECRETO LEGISLATIVO
+  numero: "82"
+  data: 2005-03-07
+  anno: 2005
+  codice_redazionale: 005G0104
+  urn: urn:nir:stato:decreto.legislativo:2005-03-07;82
+articolo:
+  numero: "64"
+  urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art64
+  rubrica: "Sistema pubblico per la gestione delle identita' digitali e modalita' di accesso ai servizi erogati in rete dalle pubbliche amministrazioni"
+vigente: true
+aggiornato_al: 2026-04-16
+fonte: normattiva.it
+licenza: CC-BY-4.0
+---
+
+# Art. 64 — Sistema pubblico per la gestione delle identita' digitali e modalita' di accesso ai servizi erogati in rete dalle pubbliche amministrazioni
+
+1. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
+
+2. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
+
+2-bis. Per favorire la diffusione di servizi in rete e agevolare l'accesso agli stessi da parte di cittadini e imprese, anche in mobilita', e' istituito, a cura dell'Agenzia per l'Italia digitale, il sistema pubblico per la gestione dell'identita' digitale di cittadini e imprese (SPID). (28)
+
+2-ter. Il sistema SPID e' costituito come insieme aperto di soggetti pubblici e privati che, previo accreditamento da parte dell'AgID, secondo modalita' definite con il decreto di cui al comma 2-sexies, identificano gli utenti per consentire loro il compimento di attivita' e l'accesso ai servizi in rete.
+
+2-quater. L'accesso ai servizi in rete erogati dalle pubbliche amministrazioni che richiedono identificazione informatica avviene tramite SPID, nonche' tramite la carta di identita' elettronica. Il sistema SPID e' adottato dalle pubbliche amministrazioni nei tempi e secondo le modalita' definiti con il decreto di cui al comma 2-sexies. Resta fermo quanto previsto dall'articolo 3-bis, comma 01.
+
+2-quinquies. Ai fini dell'erogazione dei propri servizi in rete, e' altresi' riconosciuta ai soggetti privati, secondo le modalita' definite con il decreto di cui al comma 2-sexies, la facolta' di avvalersi del sistema SPID per la gestione dell'identita' digitale dei propri utenti, nonche' la facolta' di avvalersi della carta di identita' elettronica. L'adesione al sistema SPID ovvero l'utilizzo della carta di identita' elettronica per la verifica dell'accesso ai propri servizi erogati in rete per i quali e' richiesto il riconoscimento dell'utente esonera i predetti soggetti da un obbligo generale di sorveglianza delle attivita' sui propri siti, ai sensi dell'articolo 17 del decreto legislativo 9 aprile 2003, n. 70.
+
+2-sexies. Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delegato per l'innovazione tecnologica e del Ministro per la pubblica amministrazione e la semplificazione, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali, sono definite le caratteristiche del sistema SPID, anche con riferimento:
+
+- a) al modello architetturale e organizzativo del sistema;
+- b) alle modalita' e ai requisiti necessari per l'accreditamento dei gestori dell'identita' digitale;
+- c) agli standard tecnologici e alle soluzioni tecniche e organizzative da adottare anche al fine di garantire l'interoperabilita' delle credenziali e degli strumenti di accesso resi disponibili dai gestori dell'identita' digitale nei riguardi di cittadini e imprese; (28)
+- d) alle modalita' di adesione da parte di cittadini e imprese in qualita' di utenti di servizi in rete; (28)
+- e) ai tempi e alle modalita' di adozione da parte delle pubbliche amministrazioni in qualita' di erogatori di servizi in rete;
+- f) alle modalita' di adesione da parte delle imprese interessate in qualita' di erogatori di servizi in rete.
+
+2-septies. COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
+
+2-octies. COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
+
+2-nonies. L'accesso di cui al comma 2-quater puo' avvenire anche con la carta nazionale dei servizi.
+
+2-decies. Le pubbliche amministrazioni, in qualita' di fornitori dei servizi, usufruiscono gratuitamente delle verifiche rese disponibili dai gestori di identita' digitali e dai gestori di attributi qualificati.
+
+2-undecies. I gestori dell'identita' digitale accreditati sono iscritti in un apposito elenco pubblico, tenuto da AgID, consultabile anche in via telematica.
+
+2-duodecies. La verifica dell'identita' digitale con livello di garanzia almeno significativo, ai sensi dell'articolo 8, paragrafo 2, del Regolamento (UE) n. 910/2014 del Parlamento e del Consiglio europeo del 23 luglio 2014, produce, nelle transazioni elettroniche o per l'accesso ai servizi in rete, gli effetti del documento di riconoscimento equipollente, di cui all'articolo 35 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. ((La disposizione di cui al periodo precedente si applica altresi' in caso di identificazione elettronica ai fini dell'accesso ai servizi erogati dalle pubbliche amministrazioni e dai soggetti privati tramite canali fisici)). L'identita' digitale, verificata ai sensi del presente articolo e con livello di sicurezza almeno significativo, attesta gli attributi qualificati dell'utente, ivi compresi i dati relativi al possesso di abilitazioni o autorizzazioni richieste dalla legge ovvero stati, qualita' personali e fatti contenuti in albi, elenchi o registri pubblici o comunque accertati da soggetti titolari di funzioni pubbliche, ((ovvero gli altri dati, fatti e informazioni funzionali alla fruizione di un servizio attestati da un gestore di attributi qualificati,)) secondo le modalita' stabilite da AgID con Linee guida.
+
+3. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235. (11)
+
+3-bis. Fatto salvo quanto previsto dal comma 2-nonies, i soggetti di cui all'articolo 2, comma 2, lettera a), utilizzano esclusivamente le identita' digitali SPID e la carta di identita' elettronica ai fini dell'identificazione dei cittadini che accedono ai propri servizi in rete. Con uno o piu' decreti del Presidente del Consiglio dei ministri o del Ministro delegato per l'innovazione tecnologica e la transizione digitale e' stabilita la data a decorrere dalla quale i soggetti di cui all'articolo 2, comma 2, lettera a), utilizzano esclusivamente le identita' digitali SPID, la carta di identita' elettronica e la Carta Nazionale dei servizi per consentire l'accesso delle imprese e dei professionisti ai propri servizi in rete, nonche' la data a decorrere dalla quale i soggetti di cui all'articolo 2, comma 2, lettere b) e c) utilizzano esclusivamente le identita' digitali SPID, la carta di identita' elettronica e la carta Nazionale dei servizi ai fini dell'identificazione degli utenti dei propri servizi on-line.
+
+((3-ter. I gestori dell'identita' digitale accreditati, in qualita' di gestori di pubblico servizio, prima del rilascio dell'identita' digitale a una persona fisica, verificano i dati identificativi del richiedente, ivi inclusi l'indirizzo di residenza e, ove disponibili, il domicilio digitale o altro indirizzo di contatto, mediante consultazione gratuita dei dati disponibili presso l'ANPR di cui all'articolo 62, anche tramite la piattaforma prevista dall'articolo 50-ter. Tali verifiche sono svolte anche successivamente al rilascio dell'identita' digitale, con cadenza almeno annuale, anche ai fini della verifica dell'esistenza in vita. Il direttore dell'AgID, previo accertamento dell'operativita' delle funzionalita' necessarie, fissa la data a decorrere dalla quale i gestori dell'identita' digitale accreditati sono tenuti ad effettuare le verifiche di cui ai precedenti periodi))
+
+
+
+AGGIORNAMENTO (11) Il D.L. 29 dicembre 2010, n. 225, convertito con modificazioni dalla L. 26 febbraio 2011, n. 10, ha disposto (con l'art. 1, comma 1), in relazione al comma 3 del presente articolo, che "E' fissato al 31 marzo 2011 il termine di scadenza dei termini e dei regimi giuridici indicati nella tabella 1 allegata con scadenza in data anteriore al 15 marzo 2011".
+
+AGGIORNAMENTO (28) Il D.Lga. 26 agosto 2016, n. 179 ha disposto (con l'art. 61, comma 2, lettera d)) che l'espressione «cittadini e imprese», ovunque ricorra, si intende come «soggetti giuridici».

@@ -1,0 +1,36 @@
+---
+atto:
+  titolo: "Codice dell'amministrazione digitale"
+  tipo: DECRETO LEGISLATIVO
+  numero: "82"
+  data: 2005-03-07
+  anno: 2005
+  codice_redazionale: 005G0104
+  urn: urn:nir:stato:decreto.legislativo:2005-03-07;82
+articolo:
+  numero: "51"
+  urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art51
+  rubrica: "Sicurezza ((e disponibilita')) dei dati, dei sistemi e delle infrastrutture delle pubbliche amministrazioni"
+vigente: true
+aggiornato_al: 2026-04-16
+fonte: normattiva.it
+licenza: CC-BY-4.0
+---
+
+# Art. 51 — Sicurezza ((e disponibilita')) dei dati, dei sistemi e delle infrastrutture delle pubbliche amministrazioni
+
+1. Con le ((Linee guida)) sono individuate le soluzioni tecniche idonee a garantire la protezione, la disponibilita', l'accessibilita', l'integrita' e la riservatezza dei dati e la continuita' operativa dei sistemi e delle infrastrutture.
+
+1-bis. AgID attua, per quanto di competenza e in raccordo con le altre autorita' competenti in materia, il Quadro strategico nazionale per la sicurezza dello spazio cibernetico e il Piano nazionale per la sicurezza cibernetica e la sicurezza informatica. AgID, in tale ambito:
+
+- a) coordina, tramite il Computer Emergency Response Team Pubblica Amministrazione (CERT-PA) istituito nel suo ambito, le iniziative di prevenzione e gestione degli incidenti di sicurezza informatici;
+- b) promuove intese con le analoghe strutture internazionali;
+- c) segnala al Ministro per ((la semplificazione e la pubblica amministrazione)) il mancato rispetto delle regole tecniche di cui al comma 1 da parte delle pubbliche amministrazioni.
+
+2. I documenti informatici delle pubbliche amministrazioni devono essere custoditi e controllati con modalita' tali da ridurre al minimo i rischi di distruzione, perdita, accesso non autorizzato o non consentito o non conforme alle finalita' della raccolta.
+
+2-bis. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
+
+2-ter. I soggetti di cui all'articolo 2, comma 2, aderiscono ogni anno ai programmi di sicurezza preventiva coordinati e promossi da AgID secondo le procedure dettate dalla medesima AgID con le Linee guida.
+
+2-quater. I soggetti di cui articolo 2, comma 2, predispongono, nel rispetto delle Linee guida adottate dall'AgID, piani di emergenza in grado di assicurare la continuita' operativa delle operazioni indispensabili per i servizi erogati e il ritorno alla normale operativita'. Onde garantire quanto previsto, e' possibile il ricorso all'articolo 15 della legge 7 agosto 1990, n. 241, per l'erogazione di servizi applicativi, infrastrutturali e di dati, con ristoro dei soli costi di funzionamento. Per le Amministrazioni dello Stato coinvolte si provvede mediante rimodulazione degli stanziamenti dei pertinenti capitoli di spesa o mediante riassegnazione alla spesa degli importi versati a tale titolo ad apposito capitolo di entrata del bilancio statale))

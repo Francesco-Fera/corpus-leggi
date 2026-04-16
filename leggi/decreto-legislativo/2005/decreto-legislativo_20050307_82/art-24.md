@@ -1,0 +1,36 @@
+---
+atto:
+  titolo: "Codice dell'amministrazione digitale"
+  tipo: DECRETO LEGISLATIVO
+  numero: "82"
+  data: 2005-03-07
+  anno: 2005
+  codice_redazionale: 005G0104
+  urn: urn:nir:stato:decreto.legislativo:2005-03-07;82
+articolo:
+  numero: "24"
+  urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art24
+  rubrica: "Firma digitale"
+vigente: true
+aggiornato_al: 2026-04-16
+fonte: normattiva.it
+licenza: CC-BY-4.0
+---
+
+# Art. 24 — Firma digitale
+
+1. La firma digitale deve riferirsi in maniera univoca ad un solo soggetto ed al documento o all'insieme di documenti cui e' apposta o associata.
+
+2. L'apposizione di firma digitale integra e sostituisce l'apposizione di sigilli, punzoni, timbri, contrassegni e marchi di qualsiasi genere ad ogni fine previsto dalla normativa vigente.
+
+3. Per la generazione della firma digitale deve adoperarsi un certificato qualificato che, al momento della sottoscrizione, non risulti scaduto di validita' ovvero non risulti revocato o sospeso.
+
+4. Attraverso il certificato qualificato si devono rilevare, secondo le ((Linee guida)), la validita' del certificato stesso, nonche' gli elementi identificativi del titolare ((di firma digitale)) e del certificatore e gli eventuali limiti d'uso. ((Le linee guida definiscono altresi' le modalita', anche temporali, di apposizione della firma.))
+
+4-bis. L'apposizione a un documento informatico di una firma digitale o di un altro tipo di firma elettronica qualificata basata su un certificato elettronico revocato, scaduto o sospeso equivale a mancata sottoscrizione, salvo che lo stato di sospensione sia stato annullato. La revoca o la sospensione, comunque motivate, hanno effetto dal momento della pubblicazione, salvo che il revocante, o chi richiede la sospensione, non dimostri che essa era gia' a conoscenza di tutte le parti interessate.
+
+4-ter. Le disposizioni del presente articolo si applicano anche se la firma elettronica e' basata su un certificato qualificato rilasciato da un certificatore stabilito in uno Stato non facente parte dell'Unione europea, quando ricorre una delle seguenti condizioni:
+
+- a) il certificatore possiede i requisiti previsti dal regolamento eIDAS ed e' qualificato in uno Stato membro;
+- b) il certificato qualificato e' garantito da un certificatore stabilito nella Unione europea, in possesso dei requisiti di cui al medesimo regolamento;
+- c) il certificato qualificato, o il certificatore, e' riconosciuto in forza di un accordo bilaterale o multilaterale tra l'Unione europea e Paesi terzi o organizzazioni internazionali.
