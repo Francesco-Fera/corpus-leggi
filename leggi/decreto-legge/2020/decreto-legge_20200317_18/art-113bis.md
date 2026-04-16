@@ -10,11 +10,14 @@ atto:
 articolo:
   numero: "113bis"
   urn: urn:nir:stato:decreto.legge:2020-03-17;18~art113bis
-  rubrica: "((ARTICOLO ABROGATO DAL D.L. 19 MAGGIO 2020, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 17 LUGLIO 2020, N. 77))"
-vigente: true
+  rubrica: null
+  abrogato_da: "D.L. 19 MAGGIO 2020, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 17 LUGLIO 2020, N. 77"
+vigente: false
 aggiornato_al: 2026-04-16
 fonte: normattiva.it
 licenza: CC-BY-4.0
 ---
 
-# Art. 113-bis — ((ARTICOLO ABROGATO DAL D.L. 19 MAGGIO 2020, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 17 LUGLIO 2020, N. 77))
+# Art. 113-bis
+
+> **Articolo abrogato** — D.L. 19 MAGGIO 2020, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 17 LUGLIO 2020, N. 77

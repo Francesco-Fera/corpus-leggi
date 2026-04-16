@@ -10,11 +10,14 @@ atto:
 articolo:
   numero: "64"
   urn: urn:nir:stato:decreto.legge:2020-03-17;18~art64
-  rubrica: "((ARTICOLO ABROGATO DAL D.L. 19 MAGGIO 2020, N. 34))"
-vigente: true
+  rubrica: null
+  abrogato_da: "D.L. 19 MAGGIO 2020, N. 34"
+vigente: false
 aggiornato_al: 2026-04-16
 fonte: normattiva.it
 licenza: CC-BY-4.0
 ---
 
-# Art. 64 — ((ARTICOLO ABROGATO DAL D.L. 19 MAGGIO 2020, N. 34))
+# Art. 64
+
+> **Articolo abrogato** — D.L. 19 MAGGIO 2020, N. 34

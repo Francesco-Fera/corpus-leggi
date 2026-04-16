@@ -10,11 +10,14 @@ atto:
 articolo:
   numero: "62bis"
   urn: urn:nir:stato:decreto.legge:2020-03-17;18~art62bis
-  rubrica: "((ARTICOLO ABROGATO DAL D.L. 8 APRILE 2020, N. 23, CONVERTITO CON MODIFICAZIONI DALLA L. 5 GIUGNO 2020, N. 40))"
-vigente: true
+  rubrica: null
+  abrogato_da: "D.L. 8 APRILE 2020, N. 23, CONVERTITO CON MODIFICAZIONI DALLA L. 5 GIUGNO 2020, N. 40"
+vigente: false
 aggiornato_al: 2026-04-16
 fonte: normattiva.it
 licenza: CC-BY-4.0
 ---
 
-# Art. 62-bis — ((ARTICOLO ABROGATO DAL D.L. 8 APRILE 2020, N. 23, CONVERTITO CON MODIFICAZIONI DALLA L. 5 GIUGNO 2020, N. 40))
+# Art. 62-bis
+
+> **Articolo abrogato** — D.L. 8 APRILE 2020, N. 23, CONVERTITO CON MODIFICAZIONI DALLA L. 5 GIUGNO 2020, N. 40
