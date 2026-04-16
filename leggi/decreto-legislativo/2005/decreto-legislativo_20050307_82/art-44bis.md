@@ -11,6 +11,7 @@ articolo:
   numero: "44bis"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art44bis
   rubrica: null
+  vigenza_inizio: "2018-01-27"
   abrogato_da: "D.LGS. 13 DICEMBRE 2017, N. 217)) ((29"
 vigente: false
 aggiornato_al: 2026-04-16

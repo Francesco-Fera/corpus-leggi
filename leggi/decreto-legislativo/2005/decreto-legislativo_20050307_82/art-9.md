@@ -11,6 +11,7 @@ articolo:
   numero: "9"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art9
   rubrica: "Partecipazione democratica elettronica"
+  vigenza_inizio: "2016-09-14"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

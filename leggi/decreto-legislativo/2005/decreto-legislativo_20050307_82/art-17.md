@@ -11,6 +11,7 @@ articolo:
   numero: "17"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art17
   rubrica: "Responsabile per la transizione digitale e difensore civico digitale"
+  vigenza_inizio: "2024-03-02"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

@@ -11,6 +11,7 @@ articolo:
   numero: "50"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art50
   rubrica: "Disponibilita' dei dati delle pubbliche amministrazioni"
+  vigenza_inizio: "2026-02-20"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

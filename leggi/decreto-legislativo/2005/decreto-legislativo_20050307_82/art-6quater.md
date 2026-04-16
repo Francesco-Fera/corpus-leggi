@@ -11,6 +11,7 @@ articolo:
   numero: "6quater"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art6quater
   rubrica: "(Indice nazionale dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato, non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese)"
+  vigenza_inizio: "2022-01-01"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

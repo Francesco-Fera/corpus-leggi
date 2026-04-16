@@ -11,6 +11,7 @@ articolo:
   numero: "62quater"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art62quater
   rubrica: "(( (Anagrafe nazionale dell'istruzione). ))"
+  vigenza_inizio: "2021-07-31"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

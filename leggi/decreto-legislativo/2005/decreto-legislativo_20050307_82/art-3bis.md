@@ -11,6 +11,7 @@ articolo:
   numero: "3bis"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art3bis
   rubrica: "Identita' digitale e Domicilio digitale"
+  vigenza_inizio: "2022-06-30"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

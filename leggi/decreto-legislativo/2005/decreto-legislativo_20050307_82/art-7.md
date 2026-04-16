@@ -11,6 +11,7 @@ articolo:
   numero: "7"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art7
   rubrica: "((Diritto a servizi on-line semplici e integrati))"
+  vigenza_inizio: "2018-01-27"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

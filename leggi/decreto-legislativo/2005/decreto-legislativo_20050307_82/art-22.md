@@ -11,6 +11,7 @@ articolo:
   numero: "22"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art22
   rubrica: "(Copie informatiche di documenti analogici)"
+  vigenza_inizio: "2023-04-22"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

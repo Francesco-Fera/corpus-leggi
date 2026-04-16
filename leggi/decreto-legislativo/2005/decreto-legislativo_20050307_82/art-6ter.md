@@ -11,6 +11,7 @@ articolo:
   numero: "6ter"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art6ter
   rubrica: "(( (Indice dei domicili digitali delle pubbliche amministrazioni, dei gestori di pubblici servizi e delle societa' a controllo pubblico) ))"
+  vigenza_inizio: "2026-02-20"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

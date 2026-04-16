@@ -11,6 +11,7 @@ articolo:
   numero: "8bis"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art8bis
   rubrica: "(Connettivita' alla rete Internet negli uffici e luoghi pubblici)"
+  vigenza_inizio: "2018-01-27"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

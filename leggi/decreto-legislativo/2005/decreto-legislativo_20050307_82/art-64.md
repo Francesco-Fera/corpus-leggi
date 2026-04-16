@@ -11,6 +11,7 @@ articolo:
   numero: "64"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art64
   rubrica: "Sistema pubblico per la gestione delle identita' digitali e modalita' di accesso ai servizi erogati in rete dalle pubbliche amministrazioni"
+  vigenza_inizio: "2022-06-30"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

@@ -11,6 +11,7 @@ articolo:
   numero: "32bis"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art32bis
   rubrica: "(Sanzioni per i prestatori di servizi fiduciari qualificati, per i gestori di posta elettronica certificata, per i gestori dell'identita' digitale e per i conservatori)"
+  vigenza_inizio: "2021-11-07"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

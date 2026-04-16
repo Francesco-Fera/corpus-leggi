@@ -11,6 +11,7 @@ articolo:
   numero: "8"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art8
   rubrica: "Alfabetizzazione informatica dei cittadini"
+  vigenza_inizio: "2016-09-14"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

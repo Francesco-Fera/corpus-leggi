@@ -11,6 +11,7 @@ articolo:
   numero: "64ter"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art64ter
   rubrica: "(Piattaforma di gestione deleghe)"
+  vigenza_inizio: "2024-05-01"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it
