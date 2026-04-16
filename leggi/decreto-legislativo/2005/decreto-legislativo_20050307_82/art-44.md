@@ -11,7 +11,6 @@ articolo:
   numero: "44"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art44
   rubrica: "Requisiti per la gestione e conservazione dei documenti informatici"
-  vigenza_inizio: "2020-07-17"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

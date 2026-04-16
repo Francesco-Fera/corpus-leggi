@@ -11,7 +11,6 @@ articolo:
   numero: "62quinquies"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art62quinquies
   rubrica: "(( (Anagrafe nazionale dell'istruzione superiore). ))"
-  vigenza_inizio: "2021-07-31"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

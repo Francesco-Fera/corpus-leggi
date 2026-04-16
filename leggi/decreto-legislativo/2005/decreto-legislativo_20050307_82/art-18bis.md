@@ -11,7 +11,6 @@ articolo:
   numero: "18bis"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art18bis
   rubrica: "(Violazione degli obblighi di transizione digitale)"
-  vigenza_inizio: "2022-06-30"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

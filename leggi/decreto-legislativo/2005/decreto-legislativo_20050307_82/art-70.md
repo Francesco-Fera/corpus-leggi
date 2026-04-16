@@ -11,7 +11,6 @@ articolo:
   numero: "70"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art70
   rubrica: null
-  vigenza_inizio: "2018-01-27"
   abrogato_da: "D.LGS. 13 DICEMBRE 2017, N. 217"
 vigente: false
 aggiornato_al: 2026-04-16

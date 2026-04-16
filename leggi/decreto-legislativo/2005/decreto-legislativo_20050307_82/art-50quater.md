@@ -11,7 +11,6 @@ articolo:
   numero: "50quater"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art50quater
   rubrica: "(Disponibilita' dei dati generati nella fornitura di servizi in concessione)"
-  vigenza_inizio: "2020-09-15"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

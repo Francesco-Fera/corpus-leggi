@@ -11,7 +11,6 @@ articolo:
   numero: "49"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art49
   rubrica: "Segretezza della corrispondenza trasmessa per via telematica"
-  vigenza_inizio: "2006-01-01"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

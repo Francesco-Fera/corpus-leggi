@@ -11,7 +11,6 @@ articolo:
   numero: "56"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art56
   rubrica: "Dati identificativi delle questioni pendenti dinanzi autorita' giudiziaria di ogni ordine e grado"
-  vigenza_inizio: "2011-01-25"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

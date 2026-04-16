@@ -11,7 +11,6 @@ articolo:
   numero: "66"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art66
   rubrica: "Carta d'identita' elettronica e carta nazionale dei servizi"
-  vigenza_inizio: "2019-01-01"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

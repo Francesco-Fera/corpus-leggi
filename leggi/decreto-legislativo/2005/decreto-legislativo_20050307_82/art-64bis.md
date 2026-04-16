@@ -11,7 +11,6 @@ articolo:
   numero: "64bis"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis
   rubrica: "(Accesso telematico ai servizi della Pubblica Amministrazione)"
-  vigenza_inizio: "2021-07-31"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

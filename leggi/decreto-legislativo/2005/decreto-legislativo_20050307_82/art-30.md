@@ -11,7 +11,6 @@ articolo:
   numero: "30"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art30
   rubrica: "Responsabilita' dei prestatori di servizi fiduciari qualificati, dei gestori di posta elettronica certificata, dei gestori dell'identita' digitale e dei conservatori"
-  vigenza_inizio: "2020-07-17"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

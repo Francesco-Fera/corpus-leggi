@@ -11,7 +11,6 @@ articolo:
   numero: "48"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art48
   rubrica: "(Posta elettronica certificata)"
-  vigenza_inizio: "2019-02-13"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

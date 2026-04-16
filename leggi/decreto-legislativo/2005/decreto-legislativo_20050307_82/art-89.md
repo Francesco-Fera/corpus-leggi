@@ -11,7 +11,6 @@ articolo:
   numero: "89"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art89
   rubrica: null
-  vigenza_inizio: "2016-09-14"
   abrogato_da: "D.LGS. 26 AGOSTO 2016, N. 179"
 vigente: false
 aggiornato_al: 2026-04-16

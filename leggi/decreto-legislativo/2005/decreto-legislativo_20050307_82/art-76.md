@@ -11,7 +11,6 @@ articolo:
   numero: "76"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art76
   rubrica: "Scambio di documenti informatici nell'ambito del Sistema pubblico diconnettivita'"
-  vigenza_inizio: "2016-09-14"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

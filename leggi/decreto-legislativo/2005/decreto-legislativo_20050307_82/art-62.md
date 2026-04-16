@@ -11,7 +11,6 @@ articolo:
   numero: "62"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art62
   rubrica: "(Anagrafe nazionale della popolazione residente - ANPR)"
-  vigenza_inizio: "2026-02-20"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

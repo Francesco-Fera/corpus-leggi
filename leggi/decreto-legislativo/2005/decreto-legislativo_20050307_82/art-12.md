@@ -11,7 +11,6 @@ articolo:
   numero: "12"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art12
   rubrica: "Norme generali per l'uso delle tecnologie dell'informazione e delle comunicazioni nell'azione amministrativa"
-  vigenza_inizio: "2020-09-15"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

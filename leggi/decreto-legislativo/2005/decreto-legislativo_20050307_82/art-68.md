@@ -11,7 +11,6 @@ articolo:
   numero: "68"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art68
   rubrica: "Analisi comparativa delle soluzioni"
-  vigenza_inizio: "2018-01-27"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it

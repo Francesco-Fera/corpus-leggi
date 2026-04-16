@@ -11,7 +11,6 @@ articolo:
   numero: "71"
   urn: urn:nir:stato:decreto.legislativo:2005-03-07;82~art71
   rubrica: "Regole tecniche"
-  vigenza_inizio: "2018-01-27"
 vigente: true
 aggiornato_al: 2026-04-16
 fonte: normattiva.it
