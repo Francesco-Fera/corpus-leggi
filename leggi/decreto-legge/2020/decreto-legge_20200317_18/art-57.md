@@ -1,0 +1,28 @@
+---
+atto:
+  titolo: "Misure di potenziamento del Servizio sanitario nazionale e di sostegno economico per famiglie, lavoratori e imprese connesse all'emergenza epidemiologica da COVID-19"
+  tipo: DECRETO-LEGGE
+  numero: "18"
+  data: 2020-03-17
+  anno: 2020
+  codice_redazionale: 20G00034
+  urn: urn:nir:stato:decreto.legge:2020-03-17;18
+articolo:
+  numero: "57"
+  urn: urn:nir:stato:decreto.legge:2020-03-17;18~art57
+  rubrica: "(Supporto alla liquidita' delle imprese colpite dall'emergenza epidemiologica mediante meccanismi di garanzia)"
+vigente: true
+aggiornato_al: 2026-04-16
+fonte: normattiva.it
+licenza: CC-BY-4.0
+---
+
+# Art. 57 — (Supporto alla liquidita' delle imprese colpite dall'emergenza epidemiologica mediante meccanismi di garanzia)
+
+1. Al fine di supportare la liquidita' delle imprese colpite dall'emergenza epidemiologica da "Covid-19", le esposizioni assunte da Cassa depositi e prestiti S.p.A., anche nella forma di garanzie di prima perdita su portafogli di finanziamenti, in favore delle banche e degli altri soggetti autorizzati all'esercizio del credito che concedono finanziamenti sotto qualsiasi forma alle imprese che hanno sofferto una riduzione del fatturato a causa della citata emergenza, operanti in settori individuati con decreto ministeriale ai sensi del comma 2 del presente articolo, e che non hanno accesso alla garanzia del Fondo di cui all'art. 2, comma 100, lett. a), della legge 23 dicembre 1996, n. 662, possono essere assistite dalla garanzia dello Stato. La garanzia dello Stato e' rilasciata in favore di Cassa depositi e prestiti S.p.A. fino ad un massimo dell'ottanta per cento dell'esposizione assunta, e' a prima domanda, orientata a parametri di mercato, esplicita, incondizionata e irrevocabile e conforme con la normativa di riferimento dell'Unione europea.
+
+2. Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro dello sviluppo economico, sono stabiliti criteri, modalita' e condizioni per la concessione della garanzia di cui al comma 1 e la relativa procedura di escussione e sono individuati i settori nei quali operano le imprese di cui al comma 1, assicurando comunque complementarieta' con il Fondo di garanzia di cui all'articolo 2, comma 100, della legge 23 dicembre 1996, n. 662.
+
+3. E' istituito nello stato di previsione del Ministero dell'economia e delle finanze un fondo a copertura delle garanzie dello Stato concesse ai sensi del comma 1 con una dotazione iniziale di 500 milioni di euro per l'anno 2020. E' autorizzata allo scopo l'istituzione di un apposito conto corrente di tesoreria. La gestione del Fondo puo' essere affidata a societa' a capitale interamente pubblico ai sensi ((dell'articolo 19, comma 5, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102)). La dotazione del fondo, sul quale sono versate le commissioni che ((la Cassa depositi e prestiti)) paga per l'accesso alla garanzia, puo' essere incrementata anche mediante versamento di contributi da parte delle amministrazioni statali e degli enti territoriali. Le commissioni e i contributi di cui al presente comma sono versati all'entrata del bilancio dello Stato per essere ((riassegnati)) al Fondo.
+
+4. Alla copertura degli oneri previsti dal presente articolo si provvede ai sensi dell'articolo 126.

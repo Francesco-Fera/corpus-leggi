@@ -1,0 +1,28 @@
+---
+atto:
+  titolo: "Misure di potenziamento del Servizio sanitario nazionale e di sostegno economico per famiglie, lavoratori e imprese connesse all'emergenza epidemiologica da COVID-19"
+  tipo: DECRETO-LEGGE
+  numero: "18"
+  data: 2020-03-17
+  anno: 2020
+  codice_redazionale: 20G00034
+  urn: urn:nir:stato:decreto.legge:2020-03-17;18
+articolo:
+  numero: "24"
+  urn: urn:nir:stato:decreto.legge:2020-03-17;18~art24
+  rubrica: "(Estensione durata permessi retribuiti ex art. 33, legge 5 febbraio 1992, n. 104)"
+vigente: true
+aggiornato_al: 2026-04-16
+fonte: normattiva.it
+licenza: CC-BY-4.0
+---
+
+# Art. 24 — (Estensione durata permessi retribuiti ex art. 33, legge 5 febbraio 1992, n. 104)
+
+1. Il numero di giorni di permesso retribuito coperto da contribuzione figurativa di cui all'articolo 33, comma 3, della legge 5 febbraio 1992, n. 104, e' incrementato di ulteriori complessive dodici giornate usufruibili nei mesi di marzo e aprile 2020 ((e di ulteriori complessive dodici giornate usufruibili nei mesi di maggio e giugno 2020.))
+
+2. Il beneficio di cui al comma 1 e' riconosciuto al personale sanitario compatibilmente con le esigenze organizzative delle aziende ed enti del Servizio sanitario nazionale impegnati nell'emergenza COVID-19 e del comparto sanita'.
+
+2-bis. Resta fermo che per il personale delle Forze di polizia, delle Forze armate, della Polizia penitenziaria e del Corpo nazionale dei vigili del fuoco, il beneficio di cui al comma 1 si intende riconosciuto compatibilmente con le esigenze organizzative dell'ente cui appartiene e con le preminenti esigenze di interesse pubblico da tutelare. Il beneficio non puo' essere cumulato con quanto previsto all'articolo 87, comma 6. La previsione di cui al primo periodo del presente comma si intende riferita anche al personale della polizia locale dei comuni, delle province e delle citta' metropolitane.
+
+3. Alla copertura degli oneri previsti dal presente articolo si provvede ai sensi dell'articolo 126.

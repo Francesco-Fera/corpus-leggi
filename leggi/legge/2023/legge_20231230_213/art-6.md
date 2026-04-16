@@ -1,0 +1,26 @@
+---
+atto:
+  titolo: "Bilancio di previsione dello Stato per l'anno finanziario 2024 e bilancio pluriennale per il triennio 2024-2026"
+  tipo: LEGGE
+  numero: "213"
+  data: 2023-12-30
+  anno: 2023
+  codice_redazionale: 23G00223
+  urn: urn:nir:stato:legge:2023-12-30;213
+articolo:
+  numero: "6"
+  urn: urn:nir:stato:legge:2023-12-30;213~art6
+  rubrica: "(Stato di previsione del Ministero della giustizia e disposizioni relative)"
+vigente: true
+aggiornato_al: 2026-04-16
+fonte: normattiva.it
+licenza: CC-BY-4.0
+---
+
+# Art. 6 — (Stato di previsione del Ministero della giustizia e disposizioni relative)
+
+1. Sono autorizzati l'impegno e il pagamento delle spese del Ministero della giustizia, per l'anno finanziario 2024, in conformita' all'annesso stato di previsione (Tabella n. 5).
+
+2. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione, in termini di competenza e di cassa, delle somme versate dal CONI, dalla societa' Sport e salute Spa, dalle regioni, dalle province, dai comuni e da altri enti pubblici e privati all'entrata del bilancio dello Stato, relativamente alle spese per il mantenimento, per l'assistenza e per la rieducazione dei detenuti e internati, per gli interventi e gli investimenti finalizzati al miglioramento delle condizioni detentive e delle attivita' trattamentali, nonche' per le attivita' sportive del personale del Corpo di polizia penitenziaria e dei detenuti e internati, nel programma « Amministrazione penitenziaria » e nel programma « Giustizia minorile e di comunita' », nell'ambito della missione « Giustizia » dello stato di previsione del Ministero della giustizia per l'anno finanziario 2024.
+
+3. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione, allo stato di previsione del Ministero della giustizia, delle somme versate ad apposito capitolo dell'entrata del bilancio dello Stato, a seguito di convenzioni stipulate dal Ministero medesimo con enti pubblici e privati, a decorrere dalla data di entrata in vigore della presente legge, ovvero derivanti da contributi, rimborsi e finanziamenti provenienti da organismi, anche internazionali, per la destinazione alle spese per il funzionamento degli uffici giudiziari e dei servizi, anche di natura informatica, forniti dai medesimi uffici nonche' al potenziamento delle attivita' connesse alla cooperazione giudiziaria internazionale, nei programmi « Giustizia civile e penale » e « Servizi di gestione amministrativa per l'attivita' giudiziaria » nell'ambito della missione « Giustizia » dello stato di previsione del Ministero della giustizia per l'anno finanziario 2024.

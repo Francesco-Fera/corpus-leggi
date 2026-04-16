@@ -1,0 +1,56 @@
+---
+atto:
+  titolo: "Testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative"
+  tipo: DECRETO LEGISLATIVO
+  numero: "504"
+  data: 1995-10-26
+  anno: 1995
+  codice_redazionale: 095G0523
+  urn: urn:nir:stato:decreto.legislativo:1995-10-26;504
+articolo:
+  numero: "1"
+  urn: urn:nir:stato:decreto.legislativo:1995-10-26;504~art1
+  rubrica: "(Ambito applicativo e definizioni)"
+vigente: true
+aggiornato_al: 2026-04-16
+fonte: normattiva.it
+licenza: CC-BY-4.0
+---
+
+# Art. 1 — (Ambito applicativo e definizioni)
+
+1. Il presente testo unico disciplina l'imposizione indiretta sulla produzione e sui consumi.
+
+2. Ai fini del presente testo unico si intende per:
+
+- a) accisa: l'imposizione indiretta sulla produzione o sul consumo dei prodotti energetici, dell'alcole etilico e delle bevande alcoliche, dell'energia elettrica e dei tabacchi lavorati, diversa dalle altre imposizioni indirette previste dal Titolo III del presente testo unico;
+- b) Amministrazione finanziaria: gli organi, centrali o periferici, dell'Agenzia delle dogane e dei monopoli preposti alla gestione dell'accisa sui prodotti energetici, sull'energia elettrica, sui tabacchi lavorati, sugli alcoli e sulle bevande alcoliche, e alla gestione delle altre imposte indirette di cui al Titolo III. (87)
+- c) prodotto sottoposto ad accisa: il prodotto al quale si applica il regime fiscale delle accise;
+- d) prodotto soggetto od assoggettato ad accisa: il prodotto per il quale il debito d'imposta non e' stato ovvero e' stato assolto;
+- e) deposito fiscale: l'impianto in cui vengono fabbricati, trasformati, detenuti, ricevuti o spediti prodotti sottoposti ad accisa, in regime di sospensione dei diritti di accisa, alle condizioni stabilite dall'Amministrazione finanziaria;
+- f) depositario autorizzato: il soggetto titolare e responsabile della gestione del deposito fiscale; f.1) ((soggetto obbligato accreditato (SOAC): il soggetto obbligato al pagamento dell'accisa, avente sede nel territorio nazionale, che si avvale del riconoscimento della qualifica di soggetto accreditato sulla base della verifica, da parte dell'Agenzia delle dogane e dei monopoli, della sua affidabilita' nel regime fiscale dell'accisa. In relazione al settore di attivita' in cui opera il predetto soggetto accreditato assume la denominazione di: 1) SOAC-PE, soggetto obbligato accreditato prodotti energetici, per il settore dei prodotti energetici inclusi il carbone, la lignite e il coke; 2) SOAC-BA, soggetto obbligato accreditato bevande alcoliche e alcole, per il settore dei prodotti alcolici e dei relativi contrassegni; 3) SOAC-T, soggetto obbligato accreditato tabacchi, per il settore dei tabacchi; 4) SOAC-GE, soggetto obbligato accreditato gas-energia elettrica, per il settore del gas naturale e dell'energia elettrica;)) ((129))
+- f-bis) prodotti non unionali: le merci definite all'articolo 5, punto 24) del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio del 9 ottobre 2013, che istituisce il Codice doganale dell'Unione, d'ora in avanti indicato come CDU; (87)
+- g) regime sospensivo: il regime fiscale applicabile alla fabbricazione, alla trasformazione, alla detenzione ed alla circolazione dei prodotti soggetti ad accisa fino al momento dell'esigibilita' dell'accisa o del verificarsi di una causa estintiva del debito d'imposta; (87)
+- h) LETTERA ABROGATA DAL D.LGS. 5 NOVEMBRE 2021, N. 180;
+- i) importazione di prodotti sottoposti ad accisa: l'immissione di prodotti in libera pratica a norma dell'articolo 201 del CDU; (87)
+- i-bis) ingresso irregolare: l'ingresso nel territorio dell'Unione europea di prodotti che non sono vincolati al regime di immissione in libera pratica ai sensi dell'articolo 201 del CDU e per i quali e' sorta un'obbligazione doganale ai sensi dell'articolo 79, paragrafo 1, di tale regolamento o sarebbe sorta se i prodotti fossero stati soggetti a dazi doganali; (87)
+- l) destinatario registrato: la persona fisica o giuridica, diversa dal titolare di deposito fiscale, autorizzata dall'Amministrazione finanziaria a ricevere, nell'esercizio della sua attivita' economica, prodotti sottoposti ad accisa in regime sospensivo, provenienti dal territorio di un altro Stato membro o dal territorio dello Stato; (87)
+- m) speditore registrato: la persona fisica o giuridica autorizzata dall'Amministrazione finanziaria unicamente a spedire, nell'esercizio della sua attivita' economica, prodotti sottoposti ad accisa in regime sospensivo a seguito dell'immissione in libera pratica in conformita' dell'articolo 201 del CDU,; (87)
+- m-bis) speditore certificato: la persona fisica o giuridica, autorizzata dall'Amministrazione finanziaria a spedire, nell'esercizio della sua attivita' economica, prodotti sottoposti ad accisa gia' immessi in consumo nel territorio dello Stato al fine del loro trasporto verso il territorio di un altro Stato membro; (87)
+- m-ter) destinatario certificato: la persona fisica o giuridica, autorizzata dall'Amministrazione finanziaria a ricevere, nell'esercizio della sua attivita' economica, prodotti sottoposti ad accisa immessi in consumo nel territorio di un altro Stato membro e spediti nel territorio dello Stato; (87)
+- n) sistema informatizzato: il sistema di informatizzazione di cui alla decisione (UE) 2020/263 del Parlamento europeo e del Consiglio del 15 gennaio 2020, relativa all'informatizzazione dei movimenti e dei controlli dei prodotti soggetti ad accisa; (87)
+- n-bis) e-DAS: il documento amministrativo elettronico semplificato di cui all'articolo 35 della direttiva (UE) 2020/262 del Consiglio del 19 dicembre 2019. (87)
+
+3. Ai fini dell'applicazione del presente testo unico:
+
+- a) si intende per "territorio dello Stato": il territorio della Repubblica italiana, con esclusione del comune di Livigno; (78) (87)
+- b) si intende per territorio dell'Unione europea: il territorio corrispondente al campo di applicazione del Trattato istitutivo della Comunita' europea con le seguenti esclusioni, oltre a quelle indicate nella lettera a): (87) 1) per la Repubblica francese: i territori francesi di cui all'articolo 349 e all'articolo 355, paragrafo 1, del Trattato sul funzionamento dell'Unione europea; 2) per la Repubblica federale di Germania: l'isola di Helgoland ed il territorio di Busingen; 3) per il Regno di Spagna: Ceuta, Melilla e le isole Canarie; 4) per la Repubblica di Finlandia: le isole Åland; 5) le isole Anglo-normanne;
+- c) le operazioni effettuate in provenienza o a destinazione: 1) del Principato di Monaco sono considerate come provenienti dalla, o destinate alla, Repubblica francese; 2) di Jungholz e Mittelberg (Kleines Walsertal), sono considerate come provenienti dalla, o destinate alla, Repubblica federale di Germania; 3) dell'isola di Man sono considerate come provenienti dal, o destinate al, Regno Unito di Gran Bretagna e dell'Irlanda del Nord; 4) della Repubblica di San Marino, sono considerate come provenienti dalla, o destinate alla, Repubblica italiana. Le suddette operazioni devono essere perfezionate presso i competenti uffici italiani con l'osservanza delle disposizioni finanziarie previste dalla Convenzione di amicizia e buon vicinato del 31 marzo 1939, resa esecutiva con la legge 6 giugno 1939, n. 1320, e successive modificazioni; 5) delle zone di sovranita' del Regno Unito di Akrotiri e Dhekelia sono considerate come provenienti dalla, o destinate alla, Repubblica di Cipro.
+
+
+
+AGGIORNAMENTO (78) La L. 27 dicembre 2019, n. 160 ha disposto (con l'art. 1, comma 571) che "Le disposizioni di cui ai commi 569 e 570 si applicano a decorrere dal 1° gennaio 2020".
+
+AGGIORNAMENTO (87) Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+
+AGGIORNAMENTO (129) Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". Ha inoltre disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al decreto legislativo n. 504 del 1995, come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al decreto legislativo n. 504 del 1995, introdotto dall'articolo 1, comma 1, lettera e)".
